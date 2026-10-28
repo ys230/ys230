@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">ys230 — Embedded Linux</title><desc id="desc">Platform engineering, RF validation, and field device integration.</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#405667" stroke-width=".5" opacity=".3"/></pattern><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1b26"/><stop offset="1" stop-color="#09121c"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#bg)" stroke="#283b4a"/>
+<rect x="880" y="32" width="288" height="232" fill="url(#grid)"/><path d="M48 1h72" stroke="#67e8c3" stroke-width="4"/>
+<g font-family="Segoe UI, DejaVu Sans, Arial, sans-serif"><text x="48" y="56" font-size="14" font-weight="600" letter-spacing="3" fill="#67e8c3">ys230 / ENGINEERING NOTES</text>
+<text x="45" y="135" font-size="64" font-weight="600" letter-spacing="-2" fill="#f2f7fa">Embedded Linux</text>
+<text x="48" y="181" font-size="22" fill="#a5b8c7">Build. Bring up. Validate. Deliver.</text>
+<path d="M48 222h1104" stroke="#283b4a"/>
+<text x="48" y="271" font-size="13" fill="#67e8c3">01</text><text x="78" y="271" font-size="16" fill="#d8e4ec">Platform &amp; deployment</text>
+<text x="434" y="271" font-size="13" fill="#f5c676">02</text><text x="464" y="271" font-size="16" fill="#d8e4ec">RF validation</text>
+<text x="820" y="271" font-size="13" fill="#c4b5fd">03</text><text x="850" y="271" font-size="16" fill="#d8e4ec">Field integration</text></g>
+<g fill="none" stroke="#67e8c3" stroke-width="2" stroke-linecap="round" opacity=".55"><rect x="973" y="72" width="96" height="96" rx="16"/><rect x="997" y="96" width="48" height="48" rx="7"/><path d="M997 72V50m24 22V42m24 30V50M997 168v22m24-22v30m24-30v22M973 96h-22m22 24h-30m30 24h-22M1069 96h22m-22 24h30m-30 24h22"/></g>
+</svg>
