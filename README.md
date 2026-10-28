@@ -1,5 +1,3 @@
-![ys230 · Linux, boards and tools](assets/profile-header.svg)
-
 ## Projects
 
 | | Project | Focus |
